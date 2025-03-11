@@ -1,0 +1,17 @@
+/build/
+
+.vscode/
+
+*.o
+*.exe
+*.out
+
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+
+
+cmake_install.cmake
+
+.DS_Store
+
