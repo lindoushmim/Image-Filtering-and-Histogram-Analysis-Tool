@@ -4,7 +4,7 @@
 ## 🔍 Aperçu du Projet
 
 <p align="center">
-  <img src="data/app1.png" alt="Aperçu de l'application - Chargement d'image" width="45%" style="margin-right: 10px;">
+  <img src="data/app1.png" alt="Aperçu de l'application - Chargement d'image" width="45%" style="margin-right: 30px;">
   <img src="data/app2.png" alt="Aperçu de l'application - Application de filtres" width="45%">
 </p>
 
